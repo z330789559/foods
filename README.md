@@ -22,7 +22,7 @@ api:
 
 ### web
        
-main framework: taro
+  main framework: taro
     pages:
       - [ ] 1. user register and login ,view my favorite list
       - [ ] 2. user can create food list collection, add food to collection, view collection,share collection to other user
