@@ -23,7 +23,8 @@ api:
 ### web
        
   main framework: taro
- pages:
+
+  pages:
    - [ ] 1. user register and login ,view my favorite list
    - [ ] 2. user can create food list collection, add food to collection, view collection,share collection to other user
    - [x] 3. user find nearby food, view food detail, add food to favorite list
